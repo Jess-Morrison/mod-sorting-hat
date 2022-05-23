@@ -16,3 +16,5 @@ const welcomeCard = () => {
 
   renderToDom("#introContainer", domString);
 };
+
+export default welcomeCard

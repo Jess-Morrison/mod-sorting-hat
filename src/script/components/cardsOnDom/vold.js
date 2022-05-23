@@ -17,3 +17,4 @@ const voldyCard = (array) => {
   }
   renderToDom("#voldyContainer", voldyDomString);
 };
+export default voldyCard

@@ -85,3 +85,5 @@ const eventListener = () => {
     form.reset();
   });
 };
+
+export default eventListener
