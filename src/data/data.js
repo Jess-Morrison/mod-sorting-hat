@@ -30,3 +30,5 @@ const students = [
 ];
 
 const badArmy = [];
+
+export {students, badArmy}

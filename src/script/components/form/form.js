@@ -10,3 +10,5 @@ const form = () => {
 
   renderToDom("#formContainer", domString);
 };
+
+export default form

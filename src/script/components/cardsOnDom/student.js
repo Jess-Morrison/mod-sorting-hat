@@ -14,3 +14,5 @@ const studentInfoCard = (array) => {
   }
   renderToDom("#hogCardContainer", domString);
 };
+
+export default studentInfoCard

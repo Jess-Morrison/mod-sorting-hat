@@ -7,3 +7,5 @@ const hide = () => {
 const sort = () => {
   document.getElementById("formContainer").style.display = "";
 };
+
+export default [hide,sort]
