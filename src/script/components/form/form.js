@@ -1,3 +1,7 @@
+import renderToDom from "../../utili/utility";
+import'bootstrap';
+import './style/main.css';
+
 const form = () => {
   let domString = `<form>
   <div class="mb-3">

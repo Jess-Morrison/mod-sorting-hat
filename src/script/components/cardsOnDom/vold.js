@@ -1,3 +1,6 @@
+import renderToDom from "../../utili/utility";
+import'bootstrap';
+import './style/main.css';
 // Create Voldy House Card
 
 const voldyCard = (array) => {

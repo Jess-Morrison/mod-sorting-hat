@@ -1,3 +1,6 @@
+import renderToDom from "../../utili/utility";
+import'bootstrap';
+import './style/main.css';
 // Create sorting card
 
 const welcomeCard = () => {
