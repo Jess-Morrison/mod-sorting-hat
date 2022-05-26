@@ -1,3 +1,6 @@
+
+
+
 const hide = () => {
   document.getElementById("formContainer").style.display = "none";
 };
@@ -8,4 +11,4 @@ const sort = () => {
   document.getElementById("formContainer").style.display = "";
 };
 
-export default [hide,sort]
+export {hide,sort}

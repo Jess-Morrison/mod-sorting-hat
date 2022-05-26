@@ -1,3 +1,8 @@
+import renderToDom from "../../utili/utility";
+import'bootstrap';
+import './style/main.css';
+
+
 const studentInfoCard = (array) => {
   let domString = " ";
   for (let student of array) {

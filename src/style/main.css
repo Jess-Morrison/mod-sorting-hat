@@ -1,3 +1,5 @@
+/* @import "~bootstrap/css/boostrap"; */
+
 body{
   background-color: antiquewhite;
 }
@@ -89,4 +91,3 @@ border-color: black;
     height: 50vw;
     object-fit:cover;
 }
-

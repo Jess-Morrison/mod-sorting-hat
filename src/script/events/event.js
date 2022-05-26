@@ -1,3 +1,13 @@
+
+import { students,badArmy } from "./data/data.js";
+import studentInfoCard from "./students.js"
+import voldyCard
+  from "./script/components/cardsOnDom/vold.js";
+  import'bootstrap';
+import './style/main.css';
+
+
+
 const eventListener = () => {
   document.querySelector("#buttons").addEventListener("click", (e) => {
     if (e.target.id === "ravenclaw") {
